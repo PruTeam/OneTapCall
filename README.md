@@ -19,7 +19,7 @@
 1. Add this script in your HTML file:
 
 ```html
-<script src="https://github.com/PruTeam/OneTapCall/whatsapp-call.js"></script>
+<script src="https://pruteam.github.io/OneTapCall/script.js"></script>
 
 Add a button in your page:
 <button onclick="triggerCall('91********')">📞 Call Now</button>
