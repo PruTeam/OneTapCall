@@ -26,7 +26,7 @@ Add a button in your page:
 
 💻 Live Demo
 Try it in action:
-🔗 https://pruteam.github.io/OneTapCall
+🔗 https://pruteam.github.io/OneTapCall/index.html
 
 📄 License
 MIT License — free to use for commercial and personal projects.
